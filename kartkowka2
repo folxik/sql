@@ -1,0 +1,36 @@
+#2 19.09.2016r.
+
+Medium transmisyjne – nośnik używany do transmisji sygnałów w telekomunikacji. Jest podstawowym elementem systemów telekomunikacyjnych. Możliwości transmisji zależą od parametrów użytego medium. Wyróżnia się media przewodowe i bezprzewodowe
+
+Jakie media wykorzystywane są do budowy sieci komputerowych:
+Kabel koncentryczny,Cienki kabel koncentryczny, Skrętka,Skrętka dwużyłowa,
+Skrętka dwużyłowa ekranowa, Dwużyłowa skrętka nieekranowana, Światłowody,
+
+Najpopularniejsze  skrętki:
+-nieekranowana[UTP]
+-ekranowana[FTP]
+
+Podstawowymi urządzeniami stosowanymi do budowy sieci komputerowych są:
+-modemy,
+-karty sieciowe,
+-urządzenia wzmacniające,
+-koncentratory,
+-mosty,
+-przełączniki,
+-punkty dostępowe,
+-routery,
+-bramy sieciowe,
+-bramki VoIP,
+-zapory sieciowe.
+
+Symbole stosowane w schematach sieciowych:
+-modem
+-koncentrator
+-most
+-przełącznik
+-router
+-stacja robocza
+-zapora sieciowa
+
+Jakie programy mozna wykorzystywac do tworzenia schematow sieci:
+-Cisco PacketTracer
