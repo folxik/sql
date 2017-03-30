@@ -1,0 +1,46 @@
+Co oznacza skrót CSS?
+CSS - Kaskadowe arkusze stylów. Język niezbedny do kontroli wygladu strony internetowej.
+
+W jakim celu stosuje się style CSS?
+-pozwala uniknąć powtórzeń,
+-ułatwia zarządzanie dokumentem,
+-umożliwia wykorzystywanie różnych stylów do różnych celów w jednym dokumencie.
+
+Napisz instrukcję dołączenia zewnętrznego stylu styl.css do dokumentu hipertekstowego.
+<link rel="Stylesheet" type="text/css" href="style.css" />
+
+W jaki sposób ustawić tło jednolite dla jednego elementu a jak dla całej strony w CSS?
+body { background-color: Blue; }
+body { background-image: url(adres_obrazka.jpg); }
+
+Jak ustawić tło obrazkowe dla pojedynczego akapitu na stronie internetowej?
+selektor { background-image: url(ścieżka dostępu do obrazka) }
+
+Jak ustawić powtarzające się tło?
+selektor { background-repeat: powtarzanie }
+
+Jakie wartości można ustawić dla powtarzania się tła?
+Repeat, repeat-x, repeat-y, no-repeat, space, round, space round,
+
+W jaki sposób ustawić pozycję tła elementu?
+selektor { background-position: pozycja }
+
+
+Opisz w jaki sposób utworzyć gradient liniowy dla tła elementu w CSS?
+selektor { background: linear-gradient(kierunek, kolor1 odległość1, kolor2 odległość2...) }
+
+Co to jest pozycjonowanie i co można pozycjonować na stronie?
+Pozycjonowanie w wyszukiwarce internetowej to działania mające na celu zwiększenie widoczności strony internetowej w wynikach wyszukiwania
+
+Pozycjonowanie
+Relatywne,absolutne,ustalone,statyczne
+
+Odstęp między wierszami
+selektor { line-height: odstęp }
+
+Odstep miedzy wyrazami
+selektor { word-spacing: odstęp }
+
+Odstep miedzy literami
+selektor { letter-spacing: odstęp }
+
