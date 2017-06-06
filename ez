@@ -1,0 +1,216 @@
+1.Które kryterium mocy wpływa na liczbę wewnętrznych napędów zainstalowanych w komputerze?
+Moc zasilania
+
+2.Klient potrzebuje dodatkowej przestrzeni na starszym komputerze. Jaki będzie wyglądać komputer w komputerze, aby ustalić,
+czy można dodać dodatkowy dysk twardy?
+an available PATA/SATA connection
+
+3.Dlaczego komputery przenośne używają technik ograniczania wydajności?
+Aby zmniejszyć ciepło generowane przez CPU
+
+4.Który krok ma kluczowe znaczenie przy wyborze i zainstalowaniu wielu wentylatorów chłodzących dla obudowy komputera?
+Upewnij się, że są one montowane we właściwych kierunkach przepływu powietrza. *
+
+5.Które stwierdzenie dotyczy prawnie modułów RAM DDR2 i DDR3?
+Wykorzystują różne typy gniazd DIMM na płycie głównej.
+
+6.Aby uniknąć zakłóceń elektromagnetycznych, jaki rodzaj sprzętu należy połączyć z technikiem?
+electric motors
+
+
+7.Który oświadczenie jest prawdziwe o wykorzystaniu z antistatic pas nadgarstka?
+Antistatic pas nadgarstka nie powinien być noszony naprawiając dostawę prądu.
+
+8.Który są dwoma potencjalnymi ryzykami do urządzenia bezprzewodowego, które mogło wyniknąć z rycia albo jailbreaking urządzenie? 
+(wybierać dwa.)?
+Zwyczaj OS umożliwia użytkownikowi dostęp do katalogu głównego. i Zwyczaj OS odpowiednio nie mogą stwarzać albo mogą utrzymywać sandboxing cechy.
+
+9.Klient martwi się i chce rozmawiać z określonym technikiem rozwiązać problem natychmiast. Poproszony technik jest z dala od biura przez następną godzinę. Co jest najlepszym sposobem by przetworzyć tę rozmowę telefoniczną?
+Złóż ofertę pomożenia klientowi natychmiast, i poradź klientowi, którym w innym wypadku poproszony technik nazwie klienta z powrotem w ciągu dwóch godzin.
+
+10.Klient jest zły i wzywa do skarżenia się, że usługa zaplanowana na komputerze trwała dłużej niż oczekiwany. Technik sprawdza polecenie robocze i ogłoszenia, którymi usługa była wykonały przez nowego pracownika. Jak technik powinien odpowiadać?
+Posłuchaj powództwa a następnie przeproś za jakąkolwiek niedogodność wywołaną przez przydługi serwis na komputerze.
+
+11.Co dwa czyny są odpowiedni dla wsparcia technik biurka wziąć pomagając klientom? (wybierać dwa.)
+Pozwól rozmawianiu klienta końca przed proszeniem o dodatkowe pytania.
+Gdy tylko wykrywasz gniew klienta, podawać złego klienta następnemu poziomowi.
+
+12.W który okoliczności powinien poziom jeden technik zapoczątkowywać spotęgowany porządek roboczy?
+gdy problem wymaga biegłości od innego technika
+
+13.Który dwa typy interfejsu robią temu możliwy przywiązać inne zewnętrzne składniki do laptopów i komputerów biurkowych bez zasilania komputera daleko? (wybierać dwa.)
+Firewire, usb
+
+14.Który płytę główną cecha kontroluje ilość danych że CPU transfery kiedyś?
+-front autobus boczny
+
+15.What laptop component converts DC power to AC so that the display can illuminate?
+Inwertor
+
+16.Technik musi konfigurować Bluetooth słuchawki dla użytkownika przenośnego. Który dwa kroki technik powinien brać przed instalowaniem słuchawek? (wybierać dwa.)
+Enable Bluetooth in BIOS Setup, Ensure that the laptop Bluetooth switch is enabled.
+
+17.Które oświadczenie poprawnie porównuje cechy kabla koncentrycznego ze skrętką?
+Kabel koncentryczny jest fizycznie trudniejszy do instalowania niż kabel UTP.
+
+18.Jak DSL może przenieść telefon i dane sygnały w tym samym czasie?
+Każdy sygnał używa innej częstotliwości.
+
+19.Technik komputerowy wykonany szereg czynów poprawić problem. Jakieś czyny nie rozwiązały problemu ale ostatecznie rozwiązanie zostało znalezione. Co powinno być udokumentowane?
+wszystko, co zostało zrobione próbować rozwiązać problem (everything that was done to try to solve the problem)
+
+20.Użytkownik chce podnieść jakość składników w laptopie poprawiać wyniki. Który dwa składniki mogą być zastąpiony przez użytkownika? (wybierać dwa.)
+RAM battery
+
+21.Na co dwa systemy operacyjne, które są są znalezione urządzenia bezprzewodowe? (wybierać dwa.)
+IOS,ANDROID 
+
+22.Technik próbuje stworzyć maszyny wirtualne na PC ale chcieć zapewnić, że zasoby fizycznego systemu użyte przez maszyny wirtualne bezpośrednio są zarządzane przez nich i nie według systemu operacyjnego żywiącego. Jak technik może osiągać to?
+Set up the virtual machines using a native hypervisor. [Zbiór w górę maszyn wirtualnych używając rodzinny hypervisor.]
+
+23.Który cecha z urządzenia bezprzewodowego touchscreen pozwoli użytkownikowi pędzić w okazanych rzeczach takich jak mapy i zdjęcia?
+podwójne dotknięcie
+
+24.Użytkownik pobiera wihajster na swojego Androida telefon ale jest zaintrygowany zobaczyć, że gdy wihajster jest dotknięty aplikacja jest wprowadzona na rynek. Co jest możliwym powodem?
+Wihajster jest powiązany z aplikacją i to jest normalne zachowanie.
+
+25,Użytkownik przekazuje najświeższe informacje programowi obsługi urządzenia i ponownie ładuje system. Gdy użytkownik z powodzeniem notuje w potem ponownie ładować, OS wykłada niebieski ekran i wypadki. Użytkownik naciska F8 klucz na ponownie ładować i próbuje do polana w używaniu Ostatniej znanej Dobrej Konfiguracji ale dostaje taki sam wynik. Dlaczego Ostatnia znana Dobra Konfiguracja nie będzie pracować?
+The Last Known Good Configuration is overwritten with the current one on successful login.
+
+26.NTDETECT.COM
+
+27.Technik używa cechy psychoanalityka zarządzania dyskiem seryjnej użyteczność i dzieli ściankę działową. Co technik musi robić następny aby czynić ściankę działową użyteczna?
+Przedziel ścianką nieprzydzieloną przestrzeń. [Partition the unallocated space.]
+
+28. Technik rozwiązuje problemy 4-rok - stary komputer, który zajmuje wiele czasu do buta, i identyfikuje to Bios odnajdzie cały sprzęt komputerowy przy każdym bucie. Jakie działanie rozwiązałoby ten problem?
+Odłóż na miejsce baterię CMOS. xDDD [Wymien baterie CMOS]
+
+29.Technik rozwiązuje problemy komputer że oceny niedostateczne do druku. Technik podejrzewa, że sterownik drukarki może być niemodny, przystąpi do pobierania najnowszego kierowcy, i instaluje to. Próby technika do druku, ale problem utrzymuje się. Co jest następnym działaniem, które technik powinien brać?
+Rozwiń nową teorię.***
+Sprawdź teorię.
+Załóż plan działania.
+Stwierdź problem.
+
+30.Użytkownik zgłasza, że ​​niektóre zadania drukowania nie są drukowane. Technik sprawdza i zauważa, że ​​zadania są zablokowane w kolejce drukowania. Jakie działania powinien podjąć technik w celu rozwiązania problemu?
+Anuluj zadanie, które wyświetli błąd, który uniemożliwia drukowanie innych zadań.
+
+31.Technik rozwiązywania problemów z drukarką, która nie drukuje z powodu ciągłych zacięć papieru. Co powinien najpierw spróbować technik?
+Clean the printer [WYCZYSC PAPIER XDD]
+
+32.Technik planuje uaktualnienie systemu operacyjnego dla systemu użytkownika, który jest obecnie uruchomiony na systemie Windows Vista. Ponieważ wymagana jest funkcja BitLocker wbudowana w systemie operacyjnym Windows Vista, jest żądanie, aby ta funkcja była dostępna po zainstalowaniu nowego systemu operacyjnego. Która wersja lub wersje systemu Windows 7 obsługują tę funkcję?
+Win 7ultimate 
+
+33.What does %USERPROFILE% represent in the pathC:Users%USERPROFILE%AppDataLocalTemp?
+
+Lokalizacja folderu Documents (Dokumenty) danego użytkownika
+Zmienna środowiskowa ustawiona przez system operacyjny*********
+Zmienna ustawiona przez administratora dla każdego użytkownika systemu
+Stała wartość reprezentująca poziom dostępu użytkownika do plików systemowych
+
+34.Firma ma profilaktyczną politykę alokacji, która wymaga, aby każdy komputer miał nowy punkt przywracania utworzony co sześć miesięcy. W jaki sposób technik może utworzyć punkt przywracania?
+Choose Start > All Programs > Accessories > System Tools > System Restore > Create a restore point.
+
+35.A technician is asked to set up one hard drive that will support two operating systems and will store data files in three separate drive locations. Which partition settings will support these requirements?
+2 primary, 1 active, 1 extended, 3 logical
+
+36.Użytkownik uważa, że ​​plik danych na komputerze z systemem Windows XP został uszkodzony. Które narzędzie może dostarczyć najlepsze informacje o pliku danych?
+CHKDSK
+
+37.Która metoda identyfikacji dwuetapowej wymaga użytkownika korzystania z małego urzĘ ... dzenia nadawczego, a nastę pnie podać hasło, aby uwierzytelnianie było zaakceptowane?
+Kluczowy fobXD key fob
+
+38.Zgodnie z zasadami bezpieczeństwa korporacyjnego wszystkie połączenia zdalne używają tylko bezpiecznych tuneli do komunikacji danych. Która technika szyfrowania zabezpiecza dane przesyłane przez publiczny Internet tak, jakby podróżowała przez korporacyjne sieci LAN?
+VPN
+
+39.Jaki rodzaj ataku zabezpieczeń jest uruchamiany, gdy hacker wzywa firmę do uzyskiwania informacji logowania komputera i udaje, że jest pracownikiem?
+spyware
+phishing
+adware
+Trojan
+social engineering****
+
+40.Co najlepiej opisuje zagrożenie bezpieczeństwa polegające na fałszowaniu? [SPOOFING]
+Że dane pochodzą ze źródła, które nie jest rzeczywistym źródłem
+
+41.Które trzy atrybuty systemu plików NTFS sprawiają, że jest to lepszy system plików niż FAT32? (Wybierz trzy)
+Szyfrowanie w poziomie plików i folderów
+Plików i folderów opcji uprawnień
+Dziennikarstwo XDDD [journaling]
+
+42.Który z otwartych standardów tryb zabezpieczeń sieci bezprzewodowej obsługuje najwyższy poziom zabezpieczeń?
+wpa2
+
+43.Po zalogowaniu się do komputera użytkownik może przeglądać pliki, ale nie jest w stanie pobrać plików. Jakie działanie może podjąć administrator, aby umożliwić użytkownikowi pobieranie plików, zapobiegając jednocześnie usunięciu plików?
+Ustaw uprawnienia do odczytu i wykonania.
+
+44.Technik obsługuje drukarkę laserową. Które dwie części drukarki powinny unikać kontaktu technika, ponieważ zachowują duże ilości napięcia nawet po odłączeniu od źródła zasilania?
+Rolka kondycjonująca conditioning roller
+Drut koronowy corona wire
+
+45.Bezprzewodowa sieć lokalna jest wdrażana w nowym biurze, zajmowanym przez strażaka. Biuro znajduje się w najwyższej części parku narodowego. Po zakończeniu testów sieci inżynierowie informują, że pewien rodzaj zakłóceń ma czasami wpływ na działanie bezprzewodowego sygnału sieci LAN. Jakie są dwie możliwe przyczyny zakłóceń sygnału? (Wybierz dwa.)
+Kuchenka mikrofalowa, Telefony komórkowe używane przez pracowników
+
+46.Technik powinien dokumentować aktualne konfiguracje wszystkich urządzeń sieciowych w uczelni, w tym w budynkach terenowych. Który protokół najlepiej byłoby użyć do bezpiecznego dostępu do urządzeń sieciowych?
+SSH
+
+47.Komputer może uzyskać dostęp do urządzeń w tej samej sieci, ale nie może uzyskać dostępu do urządzeń w innych sieciach. Jaka jest prawdopodobna przyczyna tego problemu?
+Komputer ma nieprawidłowy domyślny adres bramy.
+
+48.What is the reason for disabling SSID broadcasting and changing the default SSID on a wireless access point?
+Klienci bezprzewodowi muszą wtedy mieć identyfikator SSID skonfigurowany ręcznie, aby połączyć się z siecią bezprzewodową.
+
+49.Po potwierdzeniu usunięcia wirusa z komputera, w jaki sposób technik powinien zapewnić i sprawdzić pełną funkcjonalność systemu?
+Sprawdź najnowsze poprawki systemu operacyjnego i aktualizacje.
+
+50.Okna ostrzegania o zagrożeniu Rogue zostały zgłoszone jako pojawiające się na komputerach firmy. Administrator systemu komputerowego sporządza wezwanie do wszystkich pracowników wyjaśniających, jak radzić sobie z tym problemem. Oprócz opisu problemu i procedury zgłaszania, które powinny zawierać również dwie instrukcje? (Wybierz dwa.)
+Do not click anywhere in the warning window.
+If the window has to be closed, then press Alt + F4.
+
+51.Kontrola ujawnia, że ​​pliki firmy, które są przechowywane w osobistej przestrzeni serwera byłego pracownika zostały zmodyfikowane po opuszczeniu pracownika przez firmę. Co należy zrobić, aby zapobiec nieautoryzowanemu dostępowi do tych plików, a jednocześnie pozwalając firmie na używanie tych plików?
+Wyłącz konto starego pracownika.
+
+52.Technik wyjaśnia różnice między drukarkami atramentowymi a drukarkami laserowymi dla klienta. Jakie dwa porównania powinny wykonać technik? (Wybierz dwa.)
+Drukarki atramentowe są tańsze w porównaniu z drukarkami laserowymi.
+Wydajność drukarki laserowej jest sucha po wydrukowaniu, ale drukarka atramentowa może nadal mieć mokry tusz na papierze po drukowaniu.
+
+53.Jakie dwie procedury należy wykonać przed przeprowadzeniem konserwacji prewencyjnej na laptopie? (Wybierz dwa.)
+Disconnect the AC adapter.
+Remove the battery.
+
+54.W jakich okolicznościach wymagana jest okablowana sieć komputerów skrętnych?
+Gdy przewód musi być zainstalowany wewnątrz sufitu
+
+55.Które trzy działania powinny być częścią regularnego planu konserwacji zapobiegawczej komputera? (Wybierz trzy)
+Usuwanie kurzu z wlotów wentylatora, zasilacza i urządzeń peryferyjnych
+Usuwanie nieużywanych lub niepożądanych programów
+Instalowanie odpowiednich aktualizacji zabezpieczeń
+
+56.Która funkcja jest charakterystyczna dla polecenia ntbackup?
+Może być wykonywany z pliku wsadowego.
+
+57.Jakie są cztery warstwy w modelu odniesienia TCP / IP?
+application, transport, internet, network access Aplikacja, transport, internet, dostęp do sieci
+
+58.Po skonfigurowaniu administratora ręcznego na prawidłowym identyfikatorze SSID na nowym komputerze przenośnym komputer nadal nie może połączyć się z bezprzewodową siecią lokalną. Jakie dodatkowe działania należy podjąć, aby rozwiązać ten problem przez administratora?
+Sprawdź, czy adres MAC komputera przenośnego znajduje się w tabeli filtrów adresów MAC.
+
+59.Obecna konfiguracja IP małej firmy odbywa się ręcznie i jest czasochłonna. Ze względu na zwiększony wzrost sieci technik wymaga prostszego sposobu konfiguracji stacji roboczych IP. Która usługa ułatwi zadanie konfiguracji stacji roboczej IP?
+DHCP
+
+60.Jakie jest typowe zadanie wykonywane przez technika poziomu pierwszego w call center?
+Gromadzenie informacji, gdy klient prosi o pomoc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
